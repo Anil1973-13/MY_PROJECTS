@@ -1,0 +1,7 @@
+This is a simple CRUD based project(CREATE RETIEVE UPDATE and DELETE) done in Eclipse  using JAVA and Mysql Database. 
+The INSERT, SELECT, UPDATE and DELETE statements can be used in any database system, because this is support by all relational database systems.
+
+Features of Project:
+The system shall be able to record Book details : name,edition,price. 
+The system  shall be able to retrieve the Book details : name,edition,price.
+Then system shall be able to Edit and Delete the Book details : name,edition,price.
