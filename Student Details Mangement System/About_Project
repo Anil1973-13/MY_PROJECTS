@@ -1,1 +1,8 @@
-
+This a SpringBoot project, I developed this project to get some handson about API, how we can connect SpringBoot and SQL. 
+This system will store the details of actiive students taking the courses and their fee. 
+We can edit the details if he/she changes the course.
+We can delete the student details if he/she drops or completes the course.
+ 
+Used SpringBoot, MySQL, HTML, CSS, XAMPP, PHPADMIN to develop this project.
+ 
+ 
